@@ -11,12 +11,11 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
+(#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -36,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/bipurna/frontend-mentor-io-singleprice-grid-component.git)
-- Live Site URL: [Add live site URL here](https://bipurna/github.com/single-price-grid-component-master)
+- Live Site URL: [Add live site URL here](https://bipurna.github.com/frontend-mentor-io-singleprice-grid-component)
 
 ## My process
 
@@ -45,9 +44,11 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- gh-pages
 - [React](https://reactjs.org/) - JS library
 
-
+### What I learn
+- I could learn how to use github to host react app.
 ### Useful resources
 
 - [React Doc](https://reactjs.org/docs/getting-started.html) - React doc is really helpful to understand it's eco system.
