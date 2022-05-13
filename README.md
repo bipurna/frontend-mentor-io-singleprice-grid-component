@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/bipurna/frontend-mentor-io-singleprice-grid-component.git)
-- Live Site URL: [Add live site URL here](https://bipurna.github.com/frontend-mentor-io-singleprice-grid-component)
+- Live Site URL: [frontend mentor io single price component](https://bipurna.github.com/frontend-mentor-io-singleprice-grid-component)
 
 ## My process
 
