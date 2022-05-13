@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend-mentor-io-singleprice-grid-component/static/css/main.2ed93ff3.css",
+    "main.js": "/frontend-mentor-io-singleprice-grid-component/static/js/main.00ab3de3.js",
+    "index.html": "/frontend-mentor-io-singleprice-grid-component/index.html",
+    "main.2ed93ff3.css.map": "/frontend-mentor-io-singleprice-grid-component/static/css/main.2ed93ff3.css.map",
+    "main.00ab3de3.js.map": "/frontend-mentor-io-singleprice-grid-component/static/js/main.00ab3de3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ed93ff3.css",
+    "static/js/main.00ab3de3.js"
+  ]
+}
