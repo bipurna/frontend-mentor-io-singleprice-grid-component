@@ -18,9 +18,9 @@ function Card() {
         <div className="Card__bottom-left">
           <h4>Monthly Subscription</h4>
           <p className="price">
-            <span>&dollar;29</span> per month
+            <span>$29</span> per month
           </p>
-          <p>Full access for less than &dollar;1 a day</p>
+          <p>Full access for less than $1 a day</p>
           <button>Sign Up</button>
         </div>
         <div className="Card__bottom-right-why">
