@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/frontend-mentor-io-singleprice-grid-component/static/css/main.bc8110ec.css",
-    "main.js": "/frontend-mentor-io-singleprice-grid-component/static/js/main.00ab3de3.js",
+    "main.js": "/frontend-mentor-io-singleprice-grid-component/static/js/main.53a1317b.js",
     "index.html": "/frontend-mentor-io-singleprice-grid-component/index.html",
     "main.bc8110ec.css.map": "/frontend-mentor-io-singleprice-grid-component/static/css/main.bc8110ec.css.map",
-    "main.00ab3de3.js.map": "/frontend-mentor-io-singleprice-grid-component/static/js/main.00ab3de3.js.map"
+    "main.53a1317b.js.map": "/frontend-mentor-io-singleprice-grid-component/static/js/main.53a1317b.js.map"
   },
   "entrypoints": [
     "static/css/main.bc8110ec.css",
-    "static/js/main.00ab3de3.js"
+    "static/js/main.53a1317b.js"
   ]
 }
