@@ -18,16 +18,16 @@ function Card() {
         <div className="Card__bottom-left">
           <h4>Monthly Subscription</h4>
           <p className="price">
-            <span>$29</span> per month
+            <span>&dollar;29</span> per month
           </p>
-          <p>Full access for less than $1 a day</p>
+          <p>Full access for less than &dollar;1 a day</p>
           <button>Sign Up</button>
         </div>
         <div className="Card__bottom-right-why">
           <h4>Why Us</h4>
           <div className="Card__Why">
             <p>Tutorials by industry experts</p>
-            <p>Peer & expert code review</p>
+            <p>Peer &amp; expert code review</p>
             <p>Coding exercises</p>
             <p>Access to our GitHub repos</p>
             <p>community forum</p>
